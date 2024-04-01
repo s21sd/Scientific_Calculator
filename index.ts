@@ -1,5 +1,7 @@
+#! /user/bin/env node
 import inquirer from 'inquirer';
 // Asking question from users through Inquirer
+console.log("\n\tWelcome To \'Code With Sunny\' -CLI Simple Scientific Calculator")
 let answer = await inquirer.prompt([
     {
         message: "Enter First Number",
