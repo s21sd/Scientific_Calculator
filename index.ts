@@ -1,12 +1,12 @@
 import inquirer from 'inquirer';
-import * as basicmath from './Basicmath.js';
-import * as areas from './Areas.js'
-import * as volumes from './Volumes.js'
+import * as basicmath from './src/Basicmaths/Basicmath.js';
+import * as areas from './src/Areas/Areas.js'
+import * as volumes from './src/Volumes/Volumes.js'
 
 console.log("\n\tWelcome To \'Code With Sunny\' -CLI Simple Scientific Calculator")
 // console.log(basicmath.add(12, 14));
 // console.log(areas.rectanglePerimeter(12, 3, "meter"));
-console.log(volumes.coneVolume(3, 3, "cm"))
+// console.log(volumes.coneVolume(3, 3, "cm"))
 
 
 

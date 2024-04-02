@@ -21,7 +21,6 @@ export function SquareRoot(a: number) {
     return Math.sqrt(a);
 }
 
-// Volumes
 // Exponents
 // Radicals
 // Graphs
