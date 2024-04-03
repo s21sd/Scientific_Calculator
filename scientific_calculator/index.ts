@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from 'inquirer';
 import * as basicmath from './src/Basicmaths/Basicmath.js';
 import * as areas from './src/Areas/Areas.js'

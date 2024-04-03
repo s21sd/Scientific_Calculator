@@ -1,5 +1,6 @@
-console.log("\n\tWelcome To \'Code With Sunny\' -CLI Simple Scientific Calculator");
+#! /usr/bin/env node
 export {};
+// console.log("\n\tWelcome To \'Code With Sunny\' -CLI Simple Scientific Calculator")
 // console.log(basicmath.add(12, 14));
 // console.log(areas.rectanglePerimeter(12, 3, "meter"));
 // console.log(volumes.coneVolume(3, 3, "cm"))
