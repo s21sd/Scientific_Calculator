@@ -1,5 +1,0 @@
-// Exponents
-export function multiplyExponents()
-{
-    
-}

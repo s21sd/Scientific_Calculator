@@ -1,8 +1,9 @@
-import * as basicmath from './src/Basicmaths/Basicmath.js';
+import * as exponents from './src/Exponents/Exponents.js';
 console.log("\n\tWelcome To \'Code With Sunny\' -CLI Simple Scientific Calculator");
-console.log(basicmath.add(12, 14));
+// console.log(basicmath.add(12, 14));
 // console.log(areas.rectanglePerimeter(12, 3, "meter"));
 // console.log(volumes.coneVolume(3, 3, "cm"))
+console.log(exponents.multiplyExponents(1, 2, 3));
 // let answer = await inquirer.prompt([
 //     {
 //         message: "Enter First Number",

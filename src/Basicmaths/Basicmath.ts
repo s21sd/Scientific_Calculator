@@ -21,11 +21,4 @@ export function SquareRoot(a: number) {
     return Math.sqrt(a);
 }
 
-// Exponents
-// Radicals
-// Graphs
-// Trigonometry
-// Logarithms
-// Conversions
-// Constants
 

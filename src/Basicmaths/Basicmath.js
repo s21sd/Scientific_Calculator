@@ -20,11 +20,3 @@ export function Exponentiation(a, b) {
 export function SquareRoot(a) {
     return Math.sqrt(a);
 }
-// Volumes
-// Exponents
-// Radicals
-// Graphs
-// Trigonometry
-// Logarithms
-// Conversions
-// Constants
